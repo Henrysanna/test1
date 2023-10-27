@@ -1,0 +1,6 @@
+*{
+background-color: aqua;
+font-family: 'Courier New', Courier, monospace;
+user-select: none;
+overflow-y: auto;
+}
